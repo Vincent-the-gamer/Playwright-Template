@@ -30,7 +30,7 @@ or
 pnpm exec playwright install chromium/firefox/webkit 
 or
 # all
-npm exec playwright install
+pnpm exec playwright install
 ~~~
 
 ### Uninstall All Playwright Browsers
